@@ -1,0 +1,16 @@
+{
+  "name": "tabnews-next",
+  "version": "1.0.0",
+  "description": "Repositório onde estarei atualizando frequentemente com aprendizados relacionados ao desenvolvimento de um TabNews com Node, Next, React e outras práticas.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
